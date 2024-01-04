@@ -1,6 +1,8 @@
 # News
 Projekt AHE Łódź
+
 Dlaczego wiadomości i aplikacja są po angielsku
+
 Program wykorzystuje News API (https://newsapi.org/)
 Aplikacja na początku miała być w polskiej wersji językowej wraz z nazwą, kategoriami i wiadomościami. Niestety podczas programowania natrafiłem na problem, który leży po stronie API i nie mogłem go naprawić,
 mianowicie w kodzie aplikacji można zmienić wiadomości na inny język dostępny, który oferuje api (w tym polski), jednak po zmianie na polskie wiadomości miniatury newsów nie wyświetlają się. Ma to związek z
